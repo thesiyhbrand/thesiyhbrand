@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/twitter/follow/thesiyhbrand?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
-<p align="left"> <a href="https://instagram.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/instagram/follow/thesiyhbrand?logo=instagram&style=for-the-badge" alt="amarjeet" /></a> </p>
 
 - 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
 
