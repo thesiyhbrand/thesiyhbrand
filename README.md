@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/twitter/follow/thesiyhbrand?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
-- 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">witcherscode</a>
+- 🔭 Working on <a href="https://github.com/witcherscode/" target="_blank">gravity coding</a>
 
 - 🌱 I’m currently learning  **Web 3.0 😁**
 
