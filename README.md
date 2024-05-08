@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate frontend developer and UI/UX designer ♻️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesiyhbrand&label=Profile%20views&color=0e75b6&style=flat" alt="thesiyhbrand" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/twitter/follow/thesiyhbrand?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
