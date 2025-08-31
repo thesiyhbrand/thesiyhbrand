@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amarjeet Chaudhary</h1>
-<h3 align="center">A passionate frontend & UI/UX developer from India</h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Amarjeet Chaudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Technical Lead at <a href="https://gravitycoding.com/">Gravity Coding</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesiyhbrand&label=Profile%20views&color=0e75b6&style=flat" alt="thesiyhbrand" /> </p>
 
