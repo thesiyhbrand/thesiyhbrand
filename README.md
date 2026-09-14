@@ -1,54 +1,354 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Amarjeet Chaudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Technical Lead at <a href="https://gravitycoding.com/">Gravity Coding</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesiyhbrand&label=Profile%20views&color=0e75b6&style=flat" alt="thesiyhbrand" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesiyhbrand" alt="thesiyhbrand" /></a> </p>
+<img src="https://raw.githubusercontent.com/thesiyhbrand/thesiyhbrand/main/assets/hero.svg" width="100%" alt="The Siyh Brand — Creative Developer">
 
-<p align="left"> <a href="https://twitter.com/thesiyhbrand" target="blank"><img src="https://img.shields.io/twitter/follow/thesiyhbrand?logo=twitter&style=for-the-badge" alt="thesiyhbrand" /></a> </p>
+<br><br>
 
-- 🔭 I’m currently working on [Gravity Coding](https://github.com/gravity-coding)
+<a href="https://github.com/thesiyhbrand">
+<img src="https://img.shields.io/badge/CREATIVE_DEVELOPER-000000?style=flat-square&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/thesiyhbrand?tab=repositories">
+<img src="https://img.shields.io/badge/82%2B_REPOSITORIES-000000?style=flat-square">
+</a>
+&nbsp;
+<a href="https://github.com/thesiyhbrand?tab=followers">
+<img src="https://img.shields.io/github/followers/thesiyhbrand?style=flat-square&label=FOLLOWERS">
+</a>
 
-- 🌱 I’m currently learning **React JS, Three JS & WebGL**
+<br><br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/thesiyhbrand?tab=repositories](https://github.com/thesiyhbrand?tab=repositories)
+### `CODE × DESIGN × MOTION`
 
-- 💬 Ask me about **GSAP, UI/UX Design, Frontend, WordPress & Graphic Designing.**
+**Building digital experiences that feel alive.**
 
-- 📫 How to reach me **thesiyhbrand@gmail.com**
+<br>
 
-- ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
+</div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://dev.to/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://twitter.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://codesandbox.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://fb.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://instagram.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://dribbble.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://www.behance.net/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@gravitycoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gravitycoding" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thesiyhbrand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thesiyhbrand" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## `01 / THE PERSON BEHIND THE CODE`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiyhbrand&show_icons=true&locale=en&layout=compact" alt="thesiyhbrand" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesiyhbrand&show_icons=true&locale=en" alt="thesiyhbrand" /></p>
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  AMARJEET CHAUDHARY                                        │
+│  ─────────────────                                         │
+│                                                            │
+│  Front-End Developer · UI/UX Designer · Creative Coder    │
+│                                                            │
+│  I build responsive interfaces, interactive experiences    │
+│  and motion-driven websites.                              │
+│                                                            │
+│  Currently exploring                                      │
+│  React · GSAP · Three.js · WebGL                           │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesiyhbrand&" alt="thesiyhbrand" /></p>
+> **I don't want to make websites that simply work.**
+> **I want to make websites people remember.**
+
+---
+
+<div align="center">
+
+## `02 / SELECTED WORK`
+
+### A few things I've built.
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `01 — FANTA`
+
+**Creative Frontend Experiment**
+
+A visual frontend project created for tutorial / experimental work.
+
+**Stack**
+
+`HTML` `CSS` `Animation`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/fanta">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 — DENNIS SNELLENBERG`
+
+**GSAP Animation Experiment**
+
+A practice project focused on recreating an immersive visual experience with animation.
+
+**Stack**
+
+`CSS` `GSAP` `Frontend`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/Dennis-Snellenberg">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03 — BOOKS OF DESIGN`
+
+**Creative Web Experiment**
+
+A design-focused frontend project exploring typography, layout and interaction.
+
+**Stack**
+
+`HTML` `CSS` `GSAP`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/booksofdesign">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 — GENTLERAIN AI`
+
+**AI × Web Experiment**
+
+A frontend project exploring the presentation of an AI-oriented product.
+
+**Stack**
+
+`HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/gentlerain-ai-gc">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `05 — CINECARSO`
+
+**Live Frontend Project**
+
+A visual website experiment focused on presentation and responsive layout.
+
+**Stack**
+
+`CSS` `Frontend`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/cinecarso">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `06 — BRANDBEET`
+
+**Creative Website Experiment**
+
+A brand-oriented frontend project built as part of creative/tutorial work.
+
+**Stack**
+
+`HTML` `CSS`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand/brandbeet">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03 / THE TOOLBOX`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,gsap,threejs,git,github,vscode,figma&perline=10" />
+
+<br><br>
+
+`HTML` · `CSS` · `JavaScript` · `React` · `GSAP`
+`Three.js` · `WebGL` · `Git` · `Figma` · `WordPress`
+
+</div>
+
+---
+
+<div align="center">
+
+## `04 / CURRENTLY`
+
+</div>
+
+```js
+const amarjeet = {
+
+    role: "Front-End Developer",
+
+    focus: [
+        "Creative Development",
+        "UI / UX",
+        "Motion Design",
+        "Interactive Experiences"
+    ],
+
+    learning: [
+        "React",
+        "Three.js",
+        "WebGL"
+    ],
+
+    favouriteTools: [
+        "JavaScript",
+        "GSAP",
+        "Figma"
+    ],
+
+    philosophy:
+        "Learn → Build → Break → Improve",
+
+    status:
+        "Building something interesting..."
+};
+```
+
+---
+
+<div align="center">
+
+## `05 / CONTRIBUTION ART`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/thesiyhbrand/thesiyhbrand/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 / GITHUB SIGNAL`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thesiyhbrand&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiyhbrand&hide_border=true&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" height="165">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiyhbrand&bg_color=00000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 / THE PHILOSOPHY`
+
+<br>
+
+### **LESS NOISE.**
+
+### **MORE INTENTION.**
+
+<br>
+
+`GOOD CODE`
+↓
+`GOOD DESIGN`
+↓
+`GOOD MOTION`
+↓
+
+### `GOOD EXPERIENCE`
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 / LET'S BUILD`
+
+<br>
+
+<a href="mailto:thesiyhbrand@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/thesiyhbrand">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/thesiyhbrand/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+```text
+────────────────────────────────────────────────
+
+       THE SIYH BRAND
+
+       BUILDING ON THE WEB.
+       ONE INTERACTION AT A TIME.
+
+────────────────────────────────────────────────
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=thesiyhbrand&style=flat-square&label=PROFILE+VIEWS">
+
+</div>
