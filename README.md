@@ -1,202 +1,104 @@
 <div align="center">
 
-<br>
-
-<img src="https://raw.githubusercontent.com/thesiyhbrand/thesiyhbrand/main/assets/hero.svg" width="100%" alt="The Siyh Brand — Creative Developer">
+<img src="./assets/hero.svg" width="100%" alt="Amarjeet Chaudhary — The Siyh Brand">
 
 <br><br>
+
+### `I MAKE WEBSITES MOVE. SOMETIMES THEY BEHAVE.`
+
+`Frontend` · `UI/UX` · `GSAP` · `Creative Development`
+
+<br>
+
+<div align="center">
 
 <a href="https://github.com/thesiyhbrand">
-<img src="https://img.shields.io/badge/CREATIVE_DEVELOPER-000000?style=flat-square&logo=github&logoColor=white">
+  <img
+    src="https://cdn.simpleicons.org/github/ffffff"
+    width="32"
+    height="32"
+    alt="GitHub"
+  />
 </a>
-&nbsp;
-<a href="https://github.com/thesiyhbrand?tab=repositories">
-<img src="https://img.shields.io/badge/82%2B_REPOSITORIES-000000?style=flat-square">
-</a>
-&nbsp;
-<a href="https://github.com/thesiyhbrand?tab=followers">
-<img src="https://img.shields.io/github/followers/thesiyhbrand?style=flat-square&label=FOLLOWERS">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:thesiyhbrand@gmail.com">
+  <img
+    src="https://cdn.simpleicons.org/gmail/ffffff"
+    width="32"
+    height="32"
+    alt="Email"
+  />
 </a>
 
-<br><br>
+</div>
 
-### `CODE × DESIGN × MOTION`
-
-**Building digital experiences that feel alive.**
+</div>
 
 <br>
 
-</div>
-
 ---
 
 <div align="center">
 
-## `01 / THE PERSON BEHIND THE CODE`
-
-</div>
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  AMARJEET CHAUDHARY                                        │
-│  ─────────────────                                         │
-│                                                            │
-│  Front-End Developer · UI/UX Designer · Creative Coder    │
-│                                                            │
-│  I build responsive interfaces, interactive experiences    │
-│  and motion-driven websites.                              │
-│                                                            │
-│  Currently exploring                                      │
-│  React · GSAP · Three.js · WebGL                           │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-> **I don't want to make websites that simply work.**
-> **I want to make websites people remember.**
-
----
-
-<div align="center">
-
-## `02 / SELECTED WORK`
-
-### A few things I've built.
+### `SELECTED WORK`
 
 </div>
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### `01 / DENNIS-SNELLENBERG`
 
-### `01 — FANTA`
+GSAP animations, smooth interactions and the kind of frontend work that makes you forget you're supposed to be learning.
 
-**Creative Frontend Experiment**
+**30 ★ · 8 forks**
 
-A visual frontend project created for tutorial / experimental work.
-
-**Stack**
-
-`HTML` `CSS` `Animation`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/fanta">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+→ [view project](https://github.com/thesiyhbrand/Dennis-Snellenberg)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `02 — DENNIS SNELLENBERG`
+### `02 / FANTA`
 
-**GSAP Animation Experiment**
+A frontend experiment from the “let's see if I can actually make this” department.
 
-A practice project focused on recreating an immersive visual experience with animation.
+**32 ★ · 15 forks**
 
-**Stack**
-
-`CSS` `GSAP` `Frontend`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/Dennis-Snellenberg">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+→ [view project](https://github.com/thesiyhbrand/fanta)
 
 </td>
-
 </tr>
 
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### `03 / BOOKS OF DESIGN`
 
-### `03 — BOOKS OF DESIGN`
+Design, typography and frontend experimentation.
 
-**Creative Web Experiment**
+Because apparently one more redesign was necessary.
 
-A design-focused frontend project exploring typography, layout and interaction.
+**11 ★ · 6 forks**
 
-**Stack**
-
-`HTML` `CSS` `GSAP`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/booksofdesign">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+→ [view project](https://github.com/thesiyhbrand/booksofdesign)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### `04 — GENTLERAIN AI`
+### `04 / GENTLERAIN AI`
 
-**AI × Web Experiment**
+An AI-themed visual experiment.
 
-A frontend project exploring the presentation of an AI-oriented product.
+The AI is probably more confident than I am.
 
-**Stack**
+**6 ★ · 1 fork**
 
-`HTML` `CSS`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/gentlerain-ai-gc">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
+→ [view project](https://github.com/thesiyhbrand/gentlerain-ai-gc)
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `05 — CINECARSO`
-
-**Live Frontend Project**
-
-A visual website experiment focused on presentation and responsive layout.
-
-**Stack**
-
-`CSS` `Frontend`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/cinecarso">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### `06 — BRANDBEET`
-
-**Creative Website Experiment**
-
-A brand-oriented frontend project built as part of creative/tutorial work.
-
-**Stack**
-
-`HTML` `CSS`
-
-<br>
-
-<a href="https://github.com/thesiyhbrand/brandbeet">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -204,151 +106,84 @@ A brand-oriented frontend project built as part of creative/tutorial work.
 
 <div align="center">
 
-## `03 / THE TOOLBOX`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,gsap,threejs,git,github,vscode,figma&perline=10" />
-
-<br><br>
-
-`HTML` · `CSS` · `JavaScript` · `React` · `GSAP`
-`Three.js` · `WebGL` · `Git` · `Figma` · `WordPress`
+### `CURRENTLY`
 
 </div>
-
----
-
-<div align="center">
-
-## `04 / CURRENTLY`
-
-</div>
-
-```js
-const amarjeet = {
-
-    role: "Front-End Developer",
-
-    focus: [
-        "Creative Development",
-        "UI / UX",
-        "Motion Design",
-        "Interactive Experiences"
-    ],
-
-    learning: [
-        "React",
-        "Three.js",
-        "WebGL"
-    ],
-
-    favouriteTools: [
-        "JavaScript",
-        "GSAP",
-        "Figma"
-    ],
-
-    philosophy:
-        "Learn → Build → Break → Improve",
-
-    status:
-        "Building something interesting..."
-};
-```
-
----
-
-<div align="center">
-
-## `05 / CONTRIBUTION ART`
-
-<br>
-
-<img src="https://raw.githubusercontent.com/thesiyhbrand/thesiyhbrand/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
-
-</div>
-
----
-
-<div align="center">
-
-## `06 / GITHUB SIGNAL`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thesiyhbrand&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github" height="165">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesiyhbrand&hide_border=true&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" height="165">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesiyhbrand&bg_color=00000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%">
-
-</div>
-
----
-
-<div align="center">
-
-## `07 / THE PHILOSOPHY`
-
-<br>
-
-### **LESS NOISE.**
-
-### **MORE INTENTION.**
-
-<br>
-
-`GOOD CODE`
-↓
-`GOOD DESIGN`
-↓
-`GOOD MOTION`
-↓
-
-### `GOOD EXPERIENCE`
-
-<br>
-
-</div>
-
----
-
-<div align="center">
-
-## `08 / LET'S BUILD`
-
-<br>
-
-<a href="mailto:thesiyhbrand@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/thesiyhbrand">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/thesiyhbrand/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
 
 ```text
-────────────────────────────────────────────────
-
-       THE SIYH BRAND
-
-       BUILDING ON THE WEB.
-       ONE INTERACTION AT A TIME.
-
-────────────────────────────────────────────────
+learning      → React / Three.js / WebGL
+building      → things that probably need GSAP
+breaking      → things that worked yesterday
+fixing        → things I shouldn't have touched
 ```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=thesiyhbrand&style=flat-square&label=PROFILE+VIEWS">
+<div align="center">
+
+> **My development workflow**
+
+`IDEA → CODE → "WHY IS IT DOING THAT?" → GOOGLE → FIX → COFFEE → REPEAT`
+
+</div>
+
+---
+
+<div align="center">
+
+### `THE NUMBERS`
+
+**82+ repositories** · **266 followers** · **∞ unfinished ideas**
+
+<br>
+
+`266 people follow me.`
+
+`At this point I should probably know what I'm doing.`
+
+</div>
+
+---
+
+<div align="center">
+
+### `THE STACK`
+
+`HTML` · `CSS` · `JavaScript` · `React` · `GSAP`
+`Three.js` · `WebGL` · `Figma` · `Git`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,jquery,wordpress,threejs,mongodb,mysql,figma,xd,nextjs,nodejs,postman,py,git,github&perline=9">
+
+</div>
+
+---
+
+<div align="center">
+
+### `ONE LAST THING`
+
+<br>
+
+**Good design gets attention.**
+
+**Good interaction keeps it.**
+
+**Good code makes sure nothing catches fire.**
+
+<br>
+
+`— The Siyh Brand`
+
+<br>
+
+<a href="https://github.com/thesiyhbrand">
+<img src="https://img.shields.io/badge/IF_YOU_MADE_IT_THIS_FAR-STAR_A_REPO-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
